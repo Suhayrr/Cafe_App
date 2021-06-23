@@ -1,0 +1,7 @@
+order_id,customer_name,customer_address,customer_phone,courier,order_status,items
+1,John,"Unit 2, 12 Main Street, LONDON, WH1 2ER",0789887334,2,Delivered,"[1, 3, 4]"
+2,susan,16 middlesex court,07867654343,7,Preparing,"[1, 2, 3]"
+3,shelly,245 maveric road,0768765345,8,Delivered,"[2, 3, 1]"
+4,mAX,Wembley haw 243,07656443233,7,Preparing,"[1, 2, 3]"
+5,Sammy,Wimbeldon w33 233,07867756543,10,Cancelled,"[1, 5, 14]"
+6,Sammy,middlesex avenue,078987656666,10,Out for delivery,"[2, 16, 17]"
