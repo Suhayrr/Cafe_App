@@ -1,4 +1,4 @@
-# Suheers pop app cafe mini project
+# Suheers cafe app mini project
 
 Command line application built in Python for a pop up cafe to create orders for customers. Data is stored in a MYSQL database and allows users to perform CRUD operations on their data. 
 
