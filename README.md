@@ -70,11 +70,6 @@ To install the requirements text file, run the following command in the terminal
 
 $ pip install -r requirements.txt
 
-## Running the tests
-Check that the codes are passing the test. From the tests directory, run:
-
-$ pytest tests.py -v
-
 ## Author
 Suheer Hassan
 
